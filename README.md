@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @amax33
 - 👀 I’m interested in music, movie and of course programming.
-- 🌱 I’m currently learning java and 3ds max.
 - 💞️ I’m looking to collaborate on your graphical project because I know some of the adobes like after effect...
 - 📫 email me on 33amax@gmail.com
 
