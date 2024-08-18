@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @amax33
-- 👀 I’m interested in music, movie and of course programming.
-- 💞️ I’m looking to collaborate on your graphical project because I know some of the adobes like after effect...
-- 📫 email me on 33amax@gmail.com
+# Hello there,
 
-<!---
-amax33/amax33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me
+- I'm a software developer with experience in **Java, Python, C#, Android/Java**, and **React**.
+- I specialize in **AI development, optimization problems, web front-end, and graphic design**.
+- I also have extensive skills in **graphic tools** like **Adobe After Effects, Photoshop, Illustrator**, and 3D modeling with **Blender** and **3ds Max**.
